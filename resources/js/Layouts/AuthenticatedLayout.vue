@@ -17,13 +17,6 @@ const user = props.auth.user;
 
 // Your Firebase project configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDgp7TZXg_WqV89S2zWShJeK9xMBXSZcOU",
-  authDomain: "fir-push-notification-89615.firebaseapp.com",
-  projectId: "fir-push-notification-89615",
-  storageBucket: "fir-push-notification-89615.firebasestorage.app",
-  messagingSenderId: "1077819506567",
-  appId: "1:1077819506567:web:3855f6a3ba9e15e3a9dd22",
-  measurementId: "G-G9SGVF85YJ"
 };
 
 // Initialize Firebase
