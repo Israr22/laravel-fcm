@@ -4,13 +4,6 @@ importScripts('https://www.gstatic.com/firebasejs/8.10.0/firebase-messaging.js')
 
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDgp7TZXg_WqV81242349S2zWShJeK9xMBXSZcOU",
-    authDomain: "fir-push-notification-89615.firebaseapp.com",
-    projectId: "fir-push-notification-89615",
-    storageBucket: "fir-push-notification-89615.appspot.com",
-    messagingSenderId: "1077819506567",
-    appId: "1:1077819506567:web:3855f6a3ba9e15e3a9dd22",
-    measurementId: "G-G9SGVF85YJ"
 };
 
 // Initialize Firebase
